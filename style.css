@@ -1,0 +1,25 @@
+body  {
+
+    margin: 0px;
+        padding: 0px;
+    font-size: 13px ;
+  font-family:  Arial, Helvetica, sans-serif
+}
+
+
+
+header { height:auto;
+
+width: 250px; 
+}
+  nav { display: flex;
+    justify-content: flex-end;
+    
+
+  }  
+nav ul {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  list-style: none;
+}
